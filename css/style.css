@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Roboto+Slab:wght@400;500;600;700&display=swap');
+
+.page{
+    height: 87rem;
+    border: 8px solid black;
+    margin: 3rem 0;
+}
+
+.first{
+    height: 100%;
+    
+}
+
+.second{
+    border: 3px solid rgba(255, 255, 255, 0.278);
+    height: 100%;
+    background-color: #ffffff;
+    
+}
+
+.intro-section{
+    height: 35%;
+    background-color: #333333;
+    padding: 1rem;
+    
+}
+.intro-section h1{
+    font-family: 'Roboto Slab', serif;
+
+}
+.intro-section h2{
+    padding-top: -3rem;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+.intro-section .other-details{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1rem;
+}
+.intro-section .other-details .phone-number{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1rem;
+    display: flex;
+}
+.phone-number-logo{
+    margin-right: .5rem;
+}
+.special-linkden{
+    font-size: 0.9rem;
+}
+.intro-section .fullname{
+    margin-top: .5rem;
+}
+
+.skill-section{
+    height: 65%;
+    background-color: #f8f8f8;
+    display: flex;
+    flex-direction: column;
+   
+}
+.skill-section h1{
+    font-family: 'Roboto Slab', serif;
+    padding-top: 2.5rem;
+    margin-left: 1rem;
+    font-size: 3rem;
+}
+.skills{
+    font-family: 'Roboto Slab', serif;
+    list-style-type: none;
+    margin-left: 1.2rem;
+    font-size: 1.4rem;
+}
+.career-objective{
+    height: 22%;
+    display: flex;
+    padding: 1.5rem .5rem;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: -1rem;
+
+}
+.career-objective p{
+   font-size: 1.2rem;
+   font-weight: 500;
+}
+.education{
+    height: 22%;
+    display: flex;
+    align-items: space-around;
+    padding: 0rem 1rem;
+    font-family: 'Roboto Slab', serif;
+    margin-top: 2rem;
+    margin-bottom: -2rem;
+}
+.education h1{
+    margin-bottom: -3rem;
+}
+.education li{
+    font-weight: 500;
+}
+.education-child{
+    margin-bottom: -1rem;
+}
+.education-main-headings{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: .5rem;
+}
+.projects{
+    height: auto;
+    padding: 0rem 1rem;
+}
+.projects h1{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+}
+.project-details{
+    font-family: 'Roboto Slab', serif;
+}
+.project-heading h2{
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+.under-details li{
+    font-weight: 500;
+}
+.purple-color{
+    color: rgb(53, 5, 53);
+    font-weight: 900;
+}
+.style-none{
+    list-style-type: none;
+    padding-left: 1.4rem;
+}
